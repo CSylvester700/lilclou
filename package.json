@@ -1,0 +1,19 @@
+{
+  "name": "urdl",
+  "version": "1.0.0",
+  "description": "a drone racing leaugue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "drone",
+    "robotic",
+    "racing"
+  ],
+  "author": "Craig Sylvester",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
